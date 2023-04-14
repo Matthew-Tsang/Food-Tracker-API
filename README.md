@@ -69,4 +69,3 @@ JWT is used to handle account authentication and authorization.
 -The integration of cloudinary to allow users to upload pictures for their profiles, as well as possibly food.  
 -The ability to sort the mealplans in the list of mealplans, possibly by name, total calories, etc.  
 -The ability to combine multiple food items into one mega food item that adds up their nutritional info.  
-# Good luck to any future developers
